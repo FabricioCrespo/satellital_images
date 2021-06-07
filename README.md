@@ -68,10 +68,6 @@ The project was oriented to generate a satellite images dataset of two areas of 
 
 [https://github.com/FabricioCrespo/satellital_images.git](https://github.com/FabricioCrespo/satellital_images.git)
 
-## Link to the folder where is the downloaded satellite image:
-
-[https://drive.google.com/drive/folders/1Fiq2DB6yOwMM_H7d6nyY3QYBLgKxtFYM?usp=sharing](https://drive.google.com/drive/folders/1Fiq2DB6yOwMM_H7d6nyY3QYBLgKxtFYM?usp=sharing)
-
 ## Link where we can find the complete dataset (satellite images + channels + vegetation indices):
 
 [https://drive.google.com/drive/folders/1Ohmo7nykACUC6g9gxHq4IghF69FNoFh_?usp=sharing](https://drive.google.com/drive/folders/1Ohmo7nykACUC6g9gxHq4IghF69FNoFh_?usp=sharing)
